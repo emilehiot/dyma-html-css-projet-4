@@ -1,5 +1,4 @@
 # dyma-html-css-projet-4
-Dyma formation HTML/CSS, Projet 4 - CV
 
 Dyma formation HTML/CSS, Projet 4 - Curriculum Vitae
 
